@@ -64,7 +64,7 @@ const PortfolioSection = () => {
              viewDetailUrl: 'https://creative-business.vercel.app/',
            },
            {
-            id: 6,
+            id: 7,
             title: 'Chat Gpt AI Clone',
              description: 'Chatgpt A.I Clone Ini saya buat dengan desain sederhana responsif react js dan APIA dari gemini, framework css tailwind.',
              imageUrl: ChatAi,
