@@ -1,6 +1,4 @@
-// src/components/OurServices.jsx
 import React from 'react';
-import BottomNav from '../components/BottomNav';
 import { useTheme } from '../ThemeContext';
 
 const OurServices = () => {
@@ -68,7 +66,6 @@ const OurServices = () => {
            </div>
          ))}
      </div>
-  <BottomNav />
     </div>
   );
 };
