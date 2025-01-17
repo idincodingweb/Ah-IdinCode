@@ -1,14 +1,8 @@
-// src/components/OurTeam.jsx
 import React from 'react';
 import { useTheme } from '../ThemeContext';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import Avatar from '../assets/images/avatar1.jpg';
-import Avatarr from '../assets/images/avatar2.jpg';
-import Avatarrr from '../assets/images/avatar3.jpg';
-import Avatarrrr from '../assets/images/avatar4.jpg';
-import Avatarrrrr from '../assets/images/photo.png';
 
 const OurTeam = () => {
     const { theme } = useTheme();
@@ -16,33 +10,33 @@ const OurTeam = () => {
      const teamMembers = [
         {
            id: 1,
-           name: 'John Doe',
+           name: 'Sari Sintia',
             role: 'Lead Developer',
-            imageUrl: Avatar,
+            imageUrl: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/_sari_351-20250118-0001.jpg' ,
         },
         {
           id: 2,
-          name: 'Jane Smith',
+          name: 'Hida Zein',
            role: 'UI/UX Designer',
-           imageUrl: Avatarr,
+           imageUrl: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/hida.z_85-20250118-0001.jpg',
        },
       {
             id: 3,
-            name: 'Mike Johnson',
+            name: 'Nur Nuriman',
            role: 'Project Manager',
-           imageUrl: Avatarrr,
+           imageUrl: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/nur_nuriman-20250118-0001.jpg',
       },
       {
-          id: 4,
-           name: 'Emily Brown',
+          id: 5,
+           name: 'Finky Nurul',
            role: 'SEO Specialist',
-           imageUrl: Avatarrrr,
+           imageUrl: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/pink_nurulrr-20250118-0001.jpg',
       },
        {
-           id: 5,
-           name: 'David Lee',
+           id: 4,
+           name: 'Sania Tasya',
           role: 'Mobile Developer',
-         imageUrl: Avatarrrrr,
+         imageUrl: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/sunchq-20250118-0001.jpg',
         },
      ];
 
