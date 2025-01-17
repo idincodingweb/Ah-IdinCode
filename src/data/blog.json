@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Basics of React Development",
+    "excerpt": "Learn the fundamental concepts of React and get started with building your first React application.",
+      "content": "Learn the fundamental concepts of React and get started with building your first React application.Learn the fundamental concepts of React and get started with building your first React application.Learn the fundamental concepts of React and get started with building your first React application.Learn the fundamental concepts of React and get started with building your first React application."
+  },
+    {
+    "id": 2,
+    "title": "Mastering Tailwind CSS",
+     "excerpt": "Explore the powerful features of Tailwind CSS and learn how to style your components efficiently.",
+     "content": "Explore the powerful features of Tailwind CSS and learn how to style your components efficiently.Explore the powerful features of Tailwind CSS and learn how to style your components efficiently.Explore the powerful features of Tailwind CSS and learn how to style your components efficiently.Explore the powerful features of Tailwind CSS and learn how to style your components efficiently."
+    },
+    {
+    "id": 3,
+    "title": "Creating Awesome UI with Figma",
+        "excerpt": "Learn how to use Figma to design awesome user interfaces for your web projects.",
+     "content": "Learn how to use Figma to design awesome user interfaces for your web projects.Learn how to use Figma to design awesome user interfaces for your web projects.Learn how to use Figma to design awesome user interfaces for your web projects.Learn how to use Figma to design awesome user interfaces for your web projects."
+   },
+    {
+     "id": 4,
+     "title": "API Integration with Node.js",
+        "excerpt": "Connect your front-end application with back-end services using Node.js and API integration.",
+       "content": "Connect your front-end application with back-end services using Node.js and API integration.Connect your front-end application with back-end services using Node.js and API integration.Connect your front-end application with back-end services using Node.js and API integration.Connect your front-end application with back-end services using Node.js and API integration."
+    },
+  {
+     "id": 5,
+      "title": "Modern Javascript Concepts",
+    "excerpt": "Explore some modern javascript concepts and techniques.",
+      "content": "Explore some modern javascript concepts and techniques.Explore some modern javascript concepts and techniques.Explore some modern javascript concepts and techniques.Explore some modern javascript concepts and techniques."
+    }
+]

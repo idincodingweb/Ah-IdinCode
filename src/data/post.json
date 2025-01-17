@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "5 Best App Development Tool for Your Project",
+    "content": "Ini adalah isi postingan pertama. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+    "date": "09 February, 2020",
+    "author": "Bolby",
+    "category": "Reviews",
+    "featuredImage": "/path-to-your-featured-image.jpg",
+    "authorAvatar": "/path-to-your-author-avatar-image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Common Misconceptions About Payment",
+    "content": "Ini adalah isi postingan kedua. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+    "date": "07 February, 2020",
+    "author": "Bolby",
+    "category": "Tutorial",
+    "featuredImage": "/path-to-your-featured-image2.jpg",
+    "authorAvatar": "/path-to-your-author-avatar-image2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "3 Things To Know About Startup Business",
+    "content": "Ini adalah isi postingan ketiga. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+    "date": "06 February, 2020",
+    "author": "Bolby",
+    "category": "Business",
+    "featuredImage": "/path-to-your-featured-image3.jpg",
+    "authorAvatar": "/path-to-your-author-avatar-image3.jpg"
+  }
+]

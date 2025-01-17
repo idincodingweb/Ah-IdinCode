@@ -1,0 +1,16 @@
+src/
+├── components/
+│   ├── BannerSection.jsx
+│   ├── PaymentSection.jsx
+│   ├── AccountabilitySection.jsx
+│   ├── TestimonialCard.jsx
+│   ├── FeatureCard.jsx
+│   ├── DataVisualizationSection.jsx
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   └── Button.jsx
+├── pages/
+│   └── Home.jsx
+├── App.jsx
+├── index.jsx
+└── index.css

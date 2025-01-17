@@ -1,0 +1,39 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: "Ubuntu", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.hidden-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hidden-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.full-width-container {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Style untuk progressbar */
+@media (max-width: 768px) {
+     .skills-item-container ul > li {
+        display: flex;
+         flex-direction: column;
+    }
+     .skills-item-mobile .relative {
+        width: 100%;
+    }
+
+      .skills-list-mobile > span:first-child{
+        margin-bottom: 0.25rem;
+      }
+}
