@@ -69,7 +69,7 @@ const PortfolioSection = () => {
              description: 'Chatgpt A.I Clone Ini saya buat dengan desain sederhana responsif react js dan APIA dari gemini, framework css tailwind.',
              imageUrl: ChatAi,
             technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'],
-             viewDetailUrl: 'https://creative-business.vercel.app/',
+             viewDetailUrl: 'https://idin-chat-bot.vercel.app/',
            },
     ];
 
